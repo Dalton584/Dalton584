@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dalton584
 - 👀 I’m interested in software development, UI design, and web design
-- 🌱 I’m currently learning Computer Science at Concord University
+- 🌱 I’m currently a graduate of Concord University looking for work
 - 📫 You can reach me through my GitHub email
 
 <!---
